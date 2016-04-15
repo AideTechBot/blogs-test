@@ -7,12 +7,11 @@
 
 # Site settings
 title: SHAD Student Blog
-email: your-email@domain.com
+#email: your-email@domain.com
 description: >
   This is the test area for a SHAD Student Blog, made with Jekyll.
 baseurl: "/shadblog" # the subpath of your site, e.g. /blog
 url: "http://matthewwang.me/" # the base hostname & protocol for your site
-twitter_username: malsf21
 github_username:  malsf21
 
 # Build settings
