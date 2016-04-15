@@ -8,6 +8,7 @@ categories: site dev
 Hey there, Matt here! I see you've stumbled along to our awesome website! Here are a few basics on how this works.
 
 Posts are found in the `_posts` directory. Each post has a YAML header, that looks like this:
+
 ```
 ---
 layout: post
