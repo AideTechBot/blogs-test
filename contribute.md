@@ -6,22 +6,11 @@ permalink: /contribute/
 
 Hey there, I heard you want to help make this site great (again)! Have no fear, we'll guide you on the steps to making your very own blog post!
 
-## How this site works
+## Making your own blog post
 
 This site is run on the framework [Jekyll](https://jekyllrb.com/), and uses Markdown-interpreted files with ruby-based mixins to generate static site data. That probably sounded like gibberish to you, but don't worry about it! Let's take a look at what a blog post is.
 
-On the website, all blog posts are stored in the `_posts` directory. The file structure looks something like this:
-
-```
-├── _config.yml # not important
-├── _includes # not important
-├── _layouts # not important
-├── _posts # Jackpot!
-├── _site # not important
-└── index.html # not important
-```
-
-In that `_posts` folder, we want to put in our file that contains everything we wanted to write. That file should be named like so:
+Let's make a text file (in a text editor, NOT Microsoft Word, but something more like Atom, Sublime Text or Notepad)
 
 `2016-01-31-Name-Of-Blog-Title.markdown`
 
@@ -52,3 +41,20 @@ Hello World!
 That shows up on the site as hello world.
 
 And, save it, and you're done!
+
+## Getting that post on the interwebs
+
+Now that you have an awesome file, we need to put it somewhere!
+
+On the website, all blog posts are stored in the `_posts` directory. The file structure looks something like this:
+
+```
+├── _config.yml # not important
+├── _includes # not important
+├── _layouts # not important
+├── _posts # Jackpot!
+├── _site # not important
+└── index.html # not important
+```
+
+We want to put our blog post in that `_posts` directory. While I wish we could voodoo magic it online! I'll show you how to do that, once I finish writing this post!
