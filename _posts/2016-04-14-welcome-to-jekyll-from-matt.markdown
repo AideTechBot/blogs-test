@@ -25,7 +25,7 @@ The only things you need to edit there are the title, date, and categories: for 
 
 After that, you just put in markdown (.markdown)! If you're not familiar with Markdown, you can find a pretty awesome guide [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-In order to run our site, you'll need to have jekyll installed on your computer. That's a long ordeal, and I'm not going to lie I'm not particularly well-versed in explaining it to you. Instead, you can visit [this site](http://jekyllrb.com/docs/home) to see how it works, if you do fancy giving it a try (hint hint, you need to run `gem install ruby`, followed by `jekyll serve` in the directory you've cloned our repository).
+In order to run our site, you'll need to have jekyll installed on your computer. That's a long ordeal, and I'm not going to lie I'm not particularly well-versed in explaining it to you. Instead, you can visit [this site](http://jekyllrb.com/docs/home) to see how it works, if you do fancy giving it a try (hint hint, you need to run `gem install jekyll`, followed by `jekyll serve` in the directory you've cloned our repository).
 
 Speaking of repository, you can find our repository [here](http://github.com/malsf21/blogs-test), where all of our code is stored (and where you can contribute)! You can also find our website with the latest stable code [here](http://matthewwang.me/shadblog).
 
