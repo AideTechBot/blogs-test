@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Jekyll (From Matt)!"
 date:   2016-04-14 20:19:49 -0400
 categories: site dev
+author: "Matthew Wang"
 ---
 
 Hey there, Matt here! I see you've stumbled along to our awesome website! Here are a few basics on how this works.
