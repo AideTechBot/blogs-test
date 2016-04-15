@@ -13,6 +13,7 @@ description: >
 baseurl: "/shadblog" # the subpath of your site, e.g. /blog
 url: "http://matthewwang.me/" # the base hostname & protocol for your site
 github_username:  malsf21
+github_repo:  malsf21/blogs-test
 
 # Build settings
 markdown: kramdown
