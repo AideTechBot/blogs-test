@@ -1,2 +1,2 @@
-# tinypress-test
-Test repo for tinypress workings.
+# Blog Test for SHAD
+Jekyll implementation of a SHAD student blog.
