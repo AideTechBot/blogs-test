@@ -9,7 +9,7 @@ campus: "McMaster"
 
 Hey there, Matt here! I see you've stumbled along to our awesome website! Here are a few basics on how this works.
 
-### Want an full guide on how to post a blog post? Visit [here](/contribute)!
+### Want an full guide on how to post a blog post? Visit [here](/shadblog/contribute)!
 
 Posts are found in the `_posts` directory. Each post has a YAML header, that looks like this:
 
