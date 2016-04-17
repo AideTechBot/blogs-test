@@ -79,29 +79,29 @@ We want to put our blog post in that `_posts` directory. While I wish we could v
 
 First, you're going to visit [github.com](http://github.com). If you don't have an account there already, please make one!
 
-![github-home](img/tutorial-contribute/github-home.png)
+![github-home](../img/tutorial-contribute/github-home.png)
 
 The next thing you're going to do is visit our **repository** (it's kinda like an online code folder), {% if site.github_repo %}{% include icon-github.html username=site.github_repo %}{% endif %}.
 
-![repo-home](img/tutorial-contribute/repo-home.png)
+![repo-home](../img/tutorial-contribute/repo-home.png)
 
 Then, you'll press the **fork** button. This lets you make your own version of our code folder, where you can make your changes.
 
-![repo-fork](img/tutorial-contribute/repo-fork.png)
+![repo-fork](../img/tutorial-contribute/repo-fork.png)
 
 After that, you'll add in your blog post to the `_posts` folder. The easiest way to do that is to click the `_posts` folder, press the "Upload File" button, and upload the file you just made in your previous step. You can also press the add file button, and copy paste your info.
 
-![sample-file](img/tutorial-contribute/sample-file.png)
+![sample-file](../img/tutorial-contribute/sample-file.png)
 
 You're going to have to write a little summary message of what you added (in the lingo we call this a **commit** and **commit message**): something along the lines of *"added blog post on how awesome cats are"* should suffice.
 
 After you're done adding your post, you should request to put those changes on our site! In programming-lingo, we call that a **pull request**. You can click the "Create Pull Request" button on the repo home. You'll get something like this:
 
-![sample-pull-make](img/tutorial-contribute/sample-pull-make.png)
+![sample-pull-make](../img/tutorial-contribute/sample-pull-make.png)
 
 In the options for the pull request, make sure that the **Head** is equal to your repo, and the **Base** is equal to our repo. Then, click create pull request.
 
-![sample-pull-request](img/tutorial-contribute/sample-pull-request.png)
+![sample-pull-request](../img/tutorial-contribute/sample-pull-request.png)
 
 You're done! Now, you're just going to wait for us to approve the change. Mostly, we're just going to check for issues with header layout (like if you forgot your three dashes), but other than that we won't touch your blog post.
 
